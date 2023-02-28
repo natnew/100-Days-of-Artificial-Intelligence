@@ -1,2 +1,2 @@
-# 100-Days-of-artificial-intelligence
+# 100 Days of Artificial Intelligence
 Artificial Intelligence For Good
