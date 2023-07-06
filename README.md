@@ -24,6 +24,14 @@ Contribute cheat sheets, summarizing key algorithms or frameworks.
 Offer insights, feedback, and improvements to existing content.
 Help answer questions and engage in discussions within our community.
 
+## 📑 AI Ebooks, Guides and Cheat Sheets 
+
+##### [EBook: The Creative Side of AI: Mastering the Art of Prompt Engineering](https://natashanewbold.gumroad.com/l/zctxdh)
+##### [Mastering Prompt Engineering: A Free eBook](https://natashanewbold.gumroad.com/l/kjxpip)
+##### [A - Z Machine Learning Guide](https://natnew.github.io/Awesome-Prompt-Engineering/ML_Guide.html)
+##### [ML CheatSheet](https://natnew.github.io/Awesome-Prompt-Engineering/ML_CheatSheet.html)
+
+
 ## 📖 Contents 
 |  Name  |  Description  |  URL  |
 | :-----:| :------------:| :----:|
