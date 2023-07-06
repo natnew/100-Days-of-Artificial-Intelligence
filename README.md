@@ -33,111 +33,111 @@ Help answer questions and engage in discussions within our community.
 
 
 ## 📖 Contents 
-|  Name  |  Description  |  URL  |
-| :-----:| :------------:| :----:|
-| **DAY 01**| PLACEHOLDER  | [GitHub]()|
-| **DAY 02**| PLACEHOLDER  | [GitHub]()|
-| **DAY 03**| PLACEHOLDER  | [GitHub]()|
-| **DAY 04**| PLACEHOLDER  | [GitHub]()|
-| **DAY 05**| PLACEHOLDER  | [GitHub]()|
-| **DAY 06**| PLACEHOLDER  | [GitHub]()|
-| **DAY 07**| PLACEHOLDER  | [GitHub]()|
-| **DAY 08**| PLACEHOLDER  | [GitHub]()|
-| **DAY 09**| PLACEHOLDER  | [GitHub]()|
-| **DAY 010**| PLACEHOLDER  | [GitHub]()|
-| **DAY 011**| PLACEHOLDER  | [GitHub]()|
-| **DAY 012**| PLACEHOLDER  | [GitHub]()|
-| **DAY 013**| PLACEHOLDER  | [GitHub]()|
-| **DAY 014**| PLACEHOLDER  | [GitHub]()|
-| **DAY 015**| PLACEHOLDER  | [GitHub]()|
-| **DAY 016**| PLACEHOLDER  | [GitHub]()|
-| **DAY 017**| PLACEHOLDER  | [GitHub]()|
-| **DAY 018**| PLACEHOLDER  | [GitHub]()|
-| **DAY 019**| PLACEHOLDER  | [GitHub]()|
-| **DAY 020**| PLACEHOLDER  | [GitHub]()|
-| **DAY 021**| PLACEHOLDER  | [GitHub]()|
-| **DAY 022**| PLACEHOLDER  | [GitHub]()|
-| **DAY 023**| PLACEHOLDER  | [GitHub]()|
-| **DAY 024**| PLACEHOLDER  | [GitHub]()|
-| **DAY 025**| PLACEHOLDER  | [GitHub]()|
+|  Name  |  Description  |  URL  |Technologies | Industry|
+| :-----:| :------------:| :----:|:----:|:----:|
+| **DAY 01**| Cat vs. Dog Image Classifier  | [GitHub]()| 
+| **DAY 02**| Flower Species Recognition  | [GitHub]()|
+| **DAY 03**| Handwritten Digit Recognition  | [GitHub]()|
+| **DAY 04**| Facial Expression Recognition  | [GitHub]()|
+| **DAY 05**| Traffic Sign Recognition  | [GitHub]()|
+| **DAY 06**| Indoor Scene Recognition  | [GitHub]()|
+| **DAY 07**| Plant Disease Detection | [GitHub]()|
+| **DAY 08**| Food Classification  | [GitHub]()|
+| **DAY 09**| Image Captioning  | [GitHub]()|
+| **DAY 010**| Wildlife Monitoring using Camera Traps  | [GitHub]()|
+| **DAY 011**| Gesture Recognition  | [GitHub]()|
+| **DAY 012**| Text Classification  | [GitHub]()|
+| **DAY 013**| Named Entity Recognition  | [GitHub]()|
+| **DAY 014**| Text Summarization  | [GitHub]()|
+| **DAY 015**| Language Translation  | [GitHub]()|
+| **DAY 016**| Question Answering System  | [GitHub]()|
+| **DAY 017**| Fake News Detection  | [GitHub]()|
+| **DAY 018**| Opinion Mining from Social Media  | [GitHub]()|
+| **DAY 019**| Speech-to-Text Conversion  | [GitHub]()|
+| **DAY 020**| Text Generation using Recurrent Neural Networks  | [GitHub]()|
+| **DAY 021**| Text-based Recommender System  | [GitHub]()|
+| **DAY 022**| Visual Question Answering  | [GitHub]()|
+| **DAY 023**| Music Generation using Deep Learning  | [GitHub]()|
+| **DAY 024**| Deep Learning for Self-Driving Cars  | [GitHub]()|
+| **DAY 025**| Anomaly Detection in Time Series Data  | [GitHub]()|
 | | | |
-| **DAY 026**| PLACEHOLDER  | [GitHub]()|
-| **DAY 027**| PLACEHOLDER  | [GitHub]()|
-| **DAY 028**| PLACEHOLDER  | [GitHub]()|
-| **DAY 029**| PLACEHOLDER  | [GitHub]()|
-| **DAY 030**| PLACEHOLDER  | [GitHub]()|
-| **DAY 031**| PLACEHOLDER  | [GitHub]()|
-| **DAY 032**| PLACEHOLDER  | [GitHub]()|
-| **DAY 033**| PLACEHOLDER  | [GitHub]()|
-| **DAY 034**| PLACEHOLDER  | [GitHub]()|
-| **DAY 035**| PLACEHOLDER  | [GitHub]()|
-| **DAY 036**| PLACEHOLDER  | [GitHub]()|
-| **DAY 037**| PLACEHOLDER  | [GitHub]()|
-| **DAY 038**| PLACEHOLDER  | [GitHub]()|
-| **DAY 039**| PLACEHOLDER  | [GitHub]()|
-| **DAY 040**| PLACEHOLDER  | [GitHub]()|
-| **DAY 041**| PLACEHOLDER  | [GitHub]()|
-| **DAY 042**| PLACEHOLDER  | [GitHub]()|
-| **DAY 043**| PLACEHOLDER  | [GitHub]()|
-| **DAY 044**| PLACEHOLDER  | [GitHub]()|
-| **DAY 045**| PLACEHOLDER  | [GitHub]()|
-| **DAY 046**| PLACEHOLDER  | [GitHub]()|
-| **DAY 047**| PLACEHOLDER  | [GitHub]()|
-| **DAY 048**| PLACEHOLDER  | [GitHub]()|
-| **DAY 049**| PLACEHOLDER  | [GitHub]()|
-| **DAY 050**| PLACEHOLDER  | [GitHub]()|
+| **DAY 026**| Chatbot for Customer Support  | [GitHub]()|
+| **DAY 027**| Language Translation Bot for Instant Messaging Platforms  | [GitHub]()|
+| **DAY 028**| Personal Assistant Bot  | [GitHub]()|
+| **DAY 029**| News Aggregator Bot  | [GitHub]()|
+| **DAY 030**| Document Classification and Tagging System  | [GitHub]()|
+| **DAY 031**| Document Similarity Analysis using Word Embeddings  | [GitHub]()|
+| **DAY 032**| Quiz Bot for Trivia  | [GitHub]()|
+| **DAY 033**| Tic-Tac-Toe Game | [GitHub]()|
+| **DAY 034**| Chess AI Agent  | [GitHub]()|
+| **DAY 035**| Multiplayer Card Game  | [GitHub]()|
+| **DAY 036**| Recommendation System for Movies or Books | [GitHub]()|
+| **DAY 037**| Automated Essay Scoring  | [GitHub]()|
+| **DAY 038**| Sports Score Prediction  | [GitHub]()|
+| **DAY 039**| Customer Churn Prediction  | [GitHub]()|
+| **DAY 040**| Fraud Detection  | [GitHub]()|
+| **DAY 041**| Crop Disease Detection  | [GitHub]()|
+| **DAY 042**| Customer Segmentation  | [GitHub]()|
+| **DAY 043**| Credit Risk Assessment  | [GitHub]()|
+| **DAY 044**| Predictive Maintenance  | [GitHub]()|
+| **DAY 045**| Demand Forecasting  | [GitHub]()|
+| **DAY 046**| Voice-based Emotion Analysis  | [GitHub]()|
+| **DAY 047**| Price Optimization  | [GitHub]()|
+| **DAY 048**| Anomaly Detection in Network Intrusion  | [GitHub]()|
+| **DAY 049**| Employee Attrition Prediction  | [GitHub]()|
+| **DAY 050**| Human Resources Resume Screening  | [GitHub]()|
 | | | |
-| **DAY 051**| PLACEHOLDER  | [GitHub]()|
-| **DAY 052**| PLACEHOLDER  | [GitHub]()|
-| **DAY 053**| PLACEHOLDER  | [GitHub]()|
-| **DAY 054**| PLACEHOLDER  | [GitHub]()|
-| **DAY 055**| PLACEHOLDER  | [GitHub]()|
-| **DAY 056**| PLACEHOLDER  | [GitHub]()|
-| **DAY 057**| PLACEHOLDER  | [GitHub]()|
-| **DAY 058**| PLACEHOLDER  | [GitHub]()|
-| **DAY 059**| PLACEHOLDER  | [GitHub]()|
-| **DAY 060**| PLACEHOLDER  | [GitHub]()|
-| **DAY 061**| PLACEHOLDER  | [GitHub]()|
-| **DAY 062**| PLACEHOLDER  | [GitHub]()|
-| **DAY 063**| PLACEHOLDER  | [GitHub]()|
-| **DAY 064**| PLACEHOLDER  | [GitHub]()|
-| **DAY 065**| PLACEHOLDER  | [GitHub]()|
-| **DAY 066**| PLACEHOLDER  | [GitHub]()|
-| **DAY 067**| PLACEHOLDER  | [GitHub]()|
-| **DAY 068**| PLACEHOLDER  | [GitHub]()|
-| **DAY 069**| PLACEHOLDER  | [GitHub]()|
-| **DAY 070**| PLACEHOLDER  | [GitHub]()|
-| **DAY 071**| PLACEHOLDER  | [GitHub]()|
-| **DAY 072**| PLACEHOLDER  | [GitHub]()|
-| **DAY 073**| PLACEHOLDER  | [GitHub]()|
-| **DAY 074**| PLACEHOLDER  | [GitHub]()|
-| **DAY 075**| PLACEHOLDER  | [GitHub]()|
+| **DAY 051**| Energy Consumption Forecasting  | [GitHub]()|
+| **DAY 052**| Personal Finance Assistant  | [GitHub]()|
+| **DAY 053**| Automated Stock Trading System  | [GitHub]()|
+| **DAY 054**| Smart Home Energy Management System  | [GitHub]()|
+| **DAY 055**| Virtual Tour Guide  | [GitHub]()|
+| **DAY 056**| Wildlife Species Identification  | [GitHub]()|
+| **DAY 057**| Automated Quality Control  | [GitHub]()|
+| **DAY 058**| Virtual Try-On | [GitHub]()|
+| **DAY 059**| Speech Therapy Assistant  | [GitHub]()|
+| **DAY 060**| Art Therapy Assistant  | [GitHub]()|
+| **DAY 061**| Cyberbullying Detection  | [GitHub]()|
+| **DAY 062**| Patient Monitoring  | [GitHub]()|
+| **DAY 063**| Traffic Congestion Prediction  | [GitHub]()|
+| **DAY 064**| Automated Object Counting  | [GitHub]()|
+| **DAY 065**| Chatbot for Mental Health Support  | [GitHub]()|
+| **DAY 066**| Computer Vision-based Accident Detection  | [GitHub]()|
+| **DAY 067**| Language Tutoring System  | [GitHub]()|
+| **DAY 068**| Energy Theft Detection  | [GitHub]()|
+| **DAY 069**| Medical Diagnosis  | [GitHub]()|
+| **DAY 070**| Indoor Navigation System  | [GitHub]()|
+| **DAY 071**| Waste Management and Recycling  | [GitHub]()|
+| **DAY 072**| Wildlife Conservation and Habitat Monitoring  | [GitHub]()|
+| **DAY 073**| Object Detection and Tracking in Surveillance  | [GitHub]()|
+| **DAY 074**| Personalized Fashion Styling Recommendation  | [GitHub]()|
+| **DAY 075**| Artwork Recommendation  | [GitHub]()|
 | | | |
-| **DAY 076**| PLACEHOLDER  | [GitHub]()|
-| **DAY 077**| PLACEHOLDER  | [GitHub]()|
-| **DAY 078**| PLACEHOLDER  | [GitHub]()|
-| **DAY 079**| PLACEHOLDER  | [GitHub]()|
-| **DAY 080**| PLACEHOLDER  | [GitHub]()|
-| **DAY 081**| PLACEHOLDER  | [GitHub]()|
-| **DAY 082**| PLACEHOLDER  | [GitHub]()|
-| **DAY 083**| PLACEHOLDER  | [GitHub]()|
-| **DAY 084**| PLACEHOLDER  | [GitHub]()|
-| **DAY 085**| PLACEHOLDER  | [GitHub]()|
-| **DAY 086**| PLACEHOLDER  | [GitHub]()|
-| **DAY 087**| PLACEHOLDER  | [GitHub]()|
-| **DAY 088**| PLACEHOLDER  | [GitHub]()|
-| **DAY 089**| PLACEHOLDER  | [GitHub]()|
-| **DAY 090**| PLACEHOLDER  | [GitHub]()|
-| **DAY 091**| PLACEHOLDER  | [GitHub]()|
-| **DAY 092**| PLACEHOLDER  | [GitHub]()|
-| **DAY 093**| PLACEHOLDER  | [GitHub]()|
-| **DAY 094**| PLACEHOLDER  | [GitHub]()|
-| **DAY 095**| PLACEHOLDER  | [GitHub]()|
-| **DAY 096**| PLACEHOLDER  | [GitHub]()|
-| **DAY 097**| PLACEHOLDER  | [GitHub]()|
-| **DAY 098**| PLACEHOLDER  | [GitHub]()|
-| **DAY 099**| PLACEHOLDER  | [GitHub]()|
-| **DAY 0100**| PLACEHOLDER  | [GitHub]()|
+| **DAY 076**| Wine Selection and Pairing Assistant  | [GitHub]()|
+| **DAY 077**| Luxury Product Authentication  | [GitHub]()|
+| **DAY 078**| Personal Investment Advisor  | [GitHub]()|
+| **DAY 079**| Fine Dining Experience Customization  | [GitHub]()|
+| **DAY 080**| Security and Access Control Systems | [GitHub]()|
+| **DAY 081**| Automated Event Planning and Management  | [GitHub]()|
+| **DAY 082**| Real Estate Property Search and Investment Advisor  | [GitHub]()|
+| **DAY 083**| Personal Concierge  | [GitHub]()|
+| **DAY 084**| Art Collection Curation and Management  | [GitHub]()|
+| **DAY 085**| Personalized Health and Wellness Programs  | [GitHub]()|
+| **DAY 086**| Auction Bidding System | [GitHub]()|
+| **DAY 087**| Virtual Reality-based Virtual Showrooms  | [GitHub]()|
+| **DAY 088**| Philanthropic Portfolio Management  | [GitHub]()|
+| **DAY 089**| Luxury Travel Booking and Experience Recommendation System | [GitHub]()|
+| **DAY 090**| Car Collection Management | [GitHub]()|
+| **DAY 091**| Private Museum Curation  | [GitHub]()|
+| **DAY 092**| Travel Membership Program  | [GitHub]()|
+| **DAY 093**| Architectural Design and Visualization | [GitHub]()|
+| **DAY 094**| Personalized Interior Design and Home Décor  | [GitHub]()|
+| **DAY 095**| Personalized Wealth Management  | [GitHub]()|
+| **DAY 096**| Luxury Vehicle Selection and Customization  | [GitHub]()|
+| **DAY 097**| Personalized Fashion Showroom and Styling Consultation  | [GitHub]()|
+| **DAY 098**| Watch Collection Management and Recommendation  | [GitHub]()|
+| **DAY 099**| Property Rental and Vacation Experience Platform  | [GitHub]()|
+| **DAY 0100**| Space Planning and Layout Optimization  | [GitHub]()|
 
 <details> 
 	<summary>"Tell me more!"</summary>
