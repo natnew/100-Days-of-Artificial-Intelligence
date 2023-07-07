@@ -1,6 +1,6 @@
 # Cat vs. Dog Image Classifier
 
-"Cat vs. Dog Image Classifier" is an AI project that uses deep learning and convolutional neural networks to distinguish between images of cats and dogs with high accuracy, enabling automatic identification and classification of these popular pets.
+Cat vs. Dog Image Classifier is an AI project that uses deep learning and convolutional neural networks to distinguish between images of cats and dogs with high accuracy, enabling automatic identification and classification of these popular pets.
 
 Initially appeared 
 [Here](https://medium.com/@natashanewbold).
