@@ -36,9 +36,9 @@ Help answer questions and engage in discussions within our community.
 |  Name  |  Description  |  URL  |Technologies | Industry/Domain |
 | :-----:| :------------:| :----:|:----:|:----:|
 | **DAY 01**| Cat vs. Dog Image Classifier  | [GitHub]()| ![Static Badge](https://img.shields.io/badge/Python%20-%20black) ![Static Badge](https://img.shields.io/badge/OpenCV%20-%20black) | E-commerce, Educational 
-| **DAY 02**| Flower Species Recognition  | [GitHub]()| ![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Botanical and Horticultural 
-| **DAY 03**| Handwritten Digit Recognition  | [GitHub]()| ![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Banking and Finance, Healthcare, Postal and Logistics
-| **DAY 04**| Facial Expression Recognition  | [GitHub]()| ![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Security and Surveillance, Entertainment and Gaming
+| **DAY 02**| Flower Species Recognition  | [GitHub]()| ![Static Badge](https://img.shields.io/badge/Python%20-%20black) ![Static Badge](https://img.shields.io/badge/PyTorch%20-%20black?logo=white) | Botanical and Horticultural 
+| **DAY 03**| Handwritten Digit Recognition | [GitHub]()| ![Static Badge](https://img.shields.io/badge/Python%20-%20black) ![Static Badge](https://img.shields.io/badge/TensorFlow%20-%20black?logo=white)| Banking and Finance, Healthcare, Postal and Logistics
+| **DAY 04**| Facial Expression Recognition  | [GitHub]()| ![Static Badge](https://img.shields.io/badge/Python%20-%20black) ![Static Badge](https://img.shields.io/badge/PyTorch%20-%20black?logo=white) | Security and Surveillance, Entertainment and Gaming
 | **DAY 05**| Traffic Sign Recognition  | [GitHub]()| ![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Transportation
 | **DAY 06**| Indoor Scene Recognition  | [GitHub]()| ![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Real Estate, Robotics
 | **DAY 07**| Plant Disease Detection | [GitHub]()| ![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Agriculture and Farming
@@ -102,42 +102,42 @@ Help answer questions and engage in discussions within our community.
 | **DAY 063**| Traffic Congestion Prediction  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Transportation and Urban Planning
 | **DAY 064**| Automated Object Counting  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Agriculture and Farming
 | **DAY 065**| Chatbot for Mental Health Support  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Healthcare
-| **DAY 066**| Computer Vision-based Accident Detection  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 067**| Language Tutoring System  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 068**| Energy Theft Detection  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 069**| Medical Diagnosis  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 070**| Indoor Navigation System  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 071**| Waste Management and Recycling  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 072**| Wildlife Conservation and Habitat Monitoring  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 073**| Object Detection and Tracking in Surveillance  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 074**| Personalized Fashion Styling Recommendation  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 075**| Artwork Recommendation  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
+| **DAY 066**| Computer Vision-based Accident Detection  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Automotive and Transportation
+| **DAY 067**| Language Tutoring System  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Education
+| **DAY 068**| Energy Theft Detection  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Energy
+| **DAY 069**| Medical Diagnosis  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Medical
+| **DAY 070**| Indoor Navigation System  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Technology
+| **DAY 071**| Waste Management and Recycling  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Environmental and Waste Management
+| **DAY 072**| Wildlife Conservation and Habitat Monitoring  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Conservation
+| **DAY 073**| Object Detection and Tracking in Surveillance  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Surveillance
+| **DAY 074**| Personalized Fashion Styling Recommendation  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Fashion
+| **DAY 075**| Artwork Recommendation  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Art
 | | | |
-| **DAY 076**| Wine Selection and Pairing Assistant  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 077**| Luxury Product Authentication  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 078**| Personal Investment Advisor  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 079**| Fine Dining Experience Customization  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 080**| Security and Access Control Systems | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 081**| Automated Event Planning and Management  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 082**| Real Estate Property Search and Investment Advisor  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 083**| Personal Concierge  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 084**| Art Collection Curation and Management  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 085**| Personalized Health and Wellness Programs  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 086**| Auction Bidding System | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 087**| Virtual Reality-based Virtual Showrooms  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 088**| Philanthropic Portfolio Management  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 089**| Luxury Travel Booking and Experience Recommendation System | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 090**| Car Collection Management | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 091**| Private Museum Curation  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 092**| Travel Membership Program  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 093**| Architectural Design and Visualization | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 094**| Personalized Interior Design and Home Décor  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 095**| Personalized Wealth Management  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 096**| Luxury Vehicle Selection and Customization  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 097**| Personalized Fashion Showroom and Styling Consultation  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 098**| Watch Collection Management and Recommendation  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 099**| Property Rental and Vacation Experience Platform  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
-| **DAY 0100**| Space Planning and Layout Optimization  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |
+| **DAY 076**| Wine Selection and Pairing Assistant  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Food and Beverage
+| **DAY 077**| Luxury Product Authentication  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Luxury Goods and Retail
+| **DAY 078**| Personal Investment Advisor  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Financial
+| **DAY 079**| Fine Dining Experience Customization  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Food and Beverage
+| **DAY 080**| Security and Access Control Systems | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Security
+| **DAY 081**| Automated Event Planning and Management  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Event Management and Hospitality
+| **DAY 082**| Real Estate Property Search and Investment Advisor  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Real Estate
+| **DAY 083**| Personal Concierge  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Hospitality and Luxury Services
+| **DAY 084**| Art Collection Curation and Management  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Art
+| **DAY 085**| Personalized Health and Wellness Programs  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Health
+| **DAY 086**| Auction Bidding System | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | E-commerce and Auction
+| **DAY 087**| Virtual Reality-based Virtual Showrooms  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Retail and E-commerce
+| **DAY 088**| Philanthropic Portfolio Management  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Philanthropy and Nonprofit
+| **DAY 089**| Luxury Travel Booking and Experience Recommendation System | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Luxury Travel
+| **DAY 090**| Car Collection Management | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Automotive
+| **DAY 091**| Private Museum Curation  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Art
+| **DAY 092**| Travel Membership Program  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Travel
+| **DAY 093**| Architectural Design and Visualization | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Architectural
+| **DAY 094**| Personalized Interior Design and Home Décor  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Interior Design
+| **DAY 095**| Personalized Wealth Management  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Financial
+| **DAY 096**| Luxury Vehicle Selection and Customization  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Automotive
+| **DAY 097**| Personalized Fashion Showroom and Styling Consultation  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Fashion
+| **DAY 098**| Watch Collection Management and Recommendation  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Luxury Goods
+| **DAY 099**| Property Rental and Vacation Experience Platform  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Real Estate
+| **DAY 0100**| Space Planning and Layout Optimization  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Space Planning
 
 <details> 
 	<summary>"Tell me more!"</summary>
