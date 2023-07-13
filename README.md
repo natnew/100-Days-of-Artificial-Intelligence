@@ -7,6 +7,19 @@
 
 Welcome to "100 Days of Artificial Intelligence"! In this GitHub repo, we embark on a journey through various facets of AI, unraveling its mysteries one day at a time. Join us as we delve into the exciting realms of machine learning, neural networks, natural language processing, and much more. Let's begin!
 
+## Before getting started:
+
+    🍴 To incorporate this repository into your own project, you can fork it.
+    ⭐ In order to receive notifications about future improvements, please consider starring this repository.
+For a short write up check out this [medium](https://medium.com/@natashanewbold) post. 
+
+## Repo structure
++ [`CheatSheets`](/CheatSheets/): Quick reference materials for different concepts or techniques
++ [`Data`](/Data/): Data files for analysis or model training
++ [`Images`](/Images/): Images of various objects, scenes, or entities from/for analysis.
++ [`Notebooks`](/Notebooks/): Code files for different projects
++ [`Resources`](/Resources/): Supporting materials or references for the project
+
 ## 👀 Announcements 
 📢 **Collaboration Opportunity Announcement** 🤝
 
