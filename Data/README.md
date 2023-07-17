@@ -1,107 +1,108 @@
 # Data
+*Please be aware that the notebooks contain links to additional datasets for your reference and exploration.
 
 |  Name  |  Description  |  Project URL  | Data |
 | :-----:| :------------:| :----:|:----:|
-| **DAY 01**| Cat vs. Dog Image Classifier  | [GitHub]()| 
-| **DAY 02**| Flower Species Recognition  | [GitHub]()| 
-| **DAY 03**| Handwritten Digit Recognition | [GitHub]()| 
-| **DAY 04**| Facial Expression Recognition  | [GitHub]()| 
-| **DAY 05**| Traffic Sign Recognition  | [GitHub]()| 
-| **DAY 06**| Indoor Scene Recognition  | [GitHub]()| 
-| **DAY 07**| Plant Disease Detection | [GitHub]()| 
-| **DAY 08**| Food Classification  | [GitHub]()|
-| **DAY 09**| Image Captioning  | [GitHub]()|
-| **DAY 010**| Wildlife Monitoring using Camera Traps  | [GitHub]()|
-| **DAY 011**| Gesture Recognition  | [GitHub]()|
-| **DAY 012**| Text Classification  | [GitHub]()|
-| **DAY 013**| Named Entity Recognition  | [GitHub]()|
-| **DAY 014**| Text Summarization  | [GitHub]()|
-| **DAY 015**| Language Translation  | [GitHub]()|
-| **DAY 016**| Question Answering System  | [GitHub]()|
-| **DAY 017**| Fake News Detection  | [GitHub]()|
-| **DAY 018**| Opinion Mining from Social Media  | [GitHub]()|
-| **DAY 019**| Speech-to-Text Conversion  | [GitHub]()|
-| **DAY 020**| Text Generation using Recurrent Neural Networks  | [GitHub]()|
-| **DAY 021**| Text-based Recommender System  | [GitHub]()|
-| **DAY 022**| Visual Question Answering  | [GitHub]()|
-| **DAY 023**| Music Generation using Deep Learning  | [GitHub]()|
-| **DAY 024**| Deep Learning for Self-Driving Cars  | [GitHub]()|
-| **DAY 025**| Anomaly Detection in Time Series Data  | [GitHub]()|
+| **DAY 01**| Cat vs. Dog Image Classifier  | [GitHub]()| [Dataset](https://www.kaggle.com/datasets/tongpython/cat-and-dog) 
+| **DAY 02**| Flower Species Recognition  | [GitHub]()| [Dataset](https://www.kaggle.com/datasets/uciml/iris)
+| **DAY 03**| Handwritten Digit Recognition | [GitHub]()| [Dataset](https://www.kaggle.com/datasets/nicolejyt/facialexpressionrecognition)
+| **DAY 04**| Facial Expression Recognition  | [GitHub]()| [Dataset](https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer)
+| **DAY 05**| Traffic Sign Recognition  | [GitHub]()| [Dataset](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
+| **DAY 06**| Indoor Scene Recognition  | [GitHub]()| [Dataset](https://www.kaggle.com/datasets/itsahmad/indoor-scenes-cvpr-2019)
+| **DAY 07**| Plant Disease Detection | [GitHub]()| [Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)
+| **DAY 08**| Food Classification  | [GitHub]()| [Dataset](https://www.kaggle.com/datasets/dansbecker/food-101)
+| **DAY 09**| Image Captioning  | [GitHub]()| [Dataset](https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset)
+| **DAY 010**| Wildlife Monitoring using Camera Traps  | [GitHub]()| [Dataset](https://www.kaggle.com/datasets/nationalparkservice/park-biodiversity)
+| **DAY 011**| Gesture Recognition  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/gti-upm/leapgestrecog)
+| **DAY 012**| Text Classification  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification)
+| **DAY 013**| Named Entity Recognition  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/abhinavwalia95/entity-annotated-corpus)
+| **DAY 014**| Text Summarization  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/pariza/bbc-news-summary)
+| **DAY 015**| Language Translation  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/dhruvildave/wikibooks-dataset)
+| **DAY 016**| Question Answering System  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/mikeortman/wikipedia-sentences)
+| **DAY 017**| Fake News Detection  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
+| **DAY 018**| Opinion Mining from Social Media  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews)
+| **DAY 019**| Speech-to-Text Conversion  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/dschettler8845/gislr-extended-train-dataframe)
+| **DAY 020**| Text Generation using Recurrent Neural Networks  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/szrlee/stock-time-series-20050101-to-20171231)
+| **DAY 021**| Text-based Recommender System  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+| **DAY 022**| Visual Question Answering  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/bhavikardeshna/visual-question-answering-computer-vision-nlp)
+| **DAY 023**| Music Generation using Deep Learning  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/amitanshjoshi/spotify-1million-tracks)
+| **DAY 024**| Deep Learning for Self-Driving Cars  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/aslanahmedov/self-driving-carbehavioural-cloning)
+| **DAY 025**| Anomaly Detection in Time Series Data  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/boltzmannbrain/nab)
 | | | |
-| **DAY 026**| Chatbot for Customer Support  | [GitHub]()|
-| **DAY 027**| Language Translation Bot for Instant Messaging Platforms  | [GitHub]()|
-| **DAY 028**| Personal Assistant Bot  | [GitHub]()|
-| **DAY 029**| News Aggregator Bot  | [GitHub]()|
-| **DAY 030**| Document Classification and Tagging System  | [GitHub]()|
-| **DAY 031**| Document Similarity Analysis using Word Embeddings  | [GitHub]()|
-| **DAY 032**| Quiz Bot for Trivia  | [GitHub]()|
-| **DAY 033**| Tic-Tac-Toe Game | [GitHub]()|
-| **DAY 034**| Chess AI Agent  | [GitHub]()|
-| **DAY 035**| Multiplayer Card Game  | [GitHub]()|
-| **DAY 036**| Recommendation System for Movies or Books | [GitHub]()|
-| **DAY 037**| Automated Essay Scoring  | [GitHub]()|
-| **DAY 038**| Sports Score Prediction  | [GitHub]()|
-| **DAY 039**| Customer Churn Prediction  | [GitHub]()|
-| **DAY 040**| Fraud Detection  | [GitHub]()|
-| **DAY 041**| Crop Disease Detection  | [GitHub]()| 
-| **DAY 042**| Customer Segmentation  | [GitHub]()|
-| **DAY 043**| Credit Risk Assessment  | [GitHub]()|
-| **DAY 044**| Predictive Maintenance  | [GitHub]()|
-| **DAY 045**| Demand Forecasting  | [GitHub]()|
-| **DAY 046**| Voice-based Emotion Analysis  | [GitHub]()|
-| **DAY 047**| Price Optimization  | [GitHub]()|
-| **DAY 048**| Anomaly Detection in Network Intrusion  | [GitHub]()|
-| **DAY 049**| Employee Attrition Prediction  | [GitHub]()|
-| **DAY 050**| Human Resources Resume Screening  | [GitHub]()|
+| **DAY 026**| Chatbot for Customer Support  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/niraliivaghani/chatbot-dataset)
+| **DAY 027**| Language Translation Bot for Instant Messaging Platforms  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/devicharith/language-translation-englishfrench)
+| **DAY 028**| Personal Assistant Bot  | [GitHub]()|[Dataset](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main/Notebooks)
+| **DAY 029**| News Aggregator Bot  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/uciml/news-aggregator-dataset)
+| **DAY 030**| Document Classification and Tagging System  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/mikeortman/wikipedia-sentences)
+| **DAY 031**| Document Similarity Analysis using Word Embeddings  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/mikeortman/wikipedia-sentences)
+| **DAY 032**| Quiz Bot for Trivia  | [GitHub]()|[Dataset](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main/Notebooks)
+| **DAY 033**| Tic-Tac-Toe Game | [GitHub]()|[Dataset](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main/Notebooks)
+| **DAY 034**| Chess AI Agent  | [GitHub]()|[Dataset](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main/Notebooks)
+| **DAY 035**| Multiplayer Card Game  | [GitHub]()|[Dataset](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main/Notebooks)
+| **DAY 036**| Recommendation System for Movies or Books | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/zygmunt/goodbooks-10k)
+| **DAY 037**| Automated Essay Scoring  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/thevirusx3/automated-essay-scoring-dataset)
+| **DAY 038**| Sports Score Prediction  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/austro/beat-the-bookie-worldwide-football-dataset)
+| **DAY 039**| Customer Churn Prediction  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/adammaus/predicting-churn-for-bank-customers)
+| **DAY 040**| Fraud Detection  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+| **DAY 041**| Crop Disease Detection  | [GitHub]()| [Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)
+| **DAY 042**| Customer Segmentation  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
+| **DAY 043**| Credit Risk Assessment  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
+| **DAY 044**| Predictive Maintenance  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification)
+| **DAY 045**| Demand Forecasting  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/kannanaikkal/food-demand-forecasting)
+| **DAY 046**| Voice-based Emotion Analysis  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess)
+| **DAY 047**| Price Optimization  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/dansbecker/flight-revenue-simulator)
+| **DAY 048**| Anomaly Detection in Network Intrusion  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15)
+| **DAY 049**| Employee Attrition Prediction  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction)
+| **DAY 050**| Human Resources Resume Screening  | [GitHub]()|[Dataset](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main/Notebooks)
 | | | |
-| **DAY 051**| Energy Consumption Forecasting  | [GitHub]()|
-| **DAY 052**| Personal Finance Assistant  | [GitHub]()|
-| **DAY 053**| Automated Stock Trading System  | [GitHub]()|
-| **DAY 054**| Smart Home Energy Management System  | [GitHub]()|
-| **DAY 055**| Virtual Tour Guide  | [GitHub]()|
-| **DAY 056**| Wildlife Species Identification  | [GitHub]()|
-| **DAY 057**| Automated Quality Control  | [GitHub]()|
-| **DAY 058**| Virtual Try-On | [GitHub]()|
-| **DAY 059**| Speech Therapy Assistant  | [GitHub]()|
-| **DAY 060**| Art Therapy Assistant  | [GitHub]()|
-| **DAY 061**| Cyberbullying Detection  | [GitHub]()|
-| **DAY 062**| Patient Monitoring  | [GitHub]()|
-| **DAY 063**| Traffic Congestion Prediction  | [GitHub]()|
-| **DAY 064**| Automated Object Counting  | [GitHub]()|
-| **DAY 065**| Chatbot for Mental Health Support  | [GitHub]()|
-| **DAY 066**| Computer Vision-based Accident Detection  | [GitHub]()|
-| **DAY 067**| Language Tutoring System  | [GitHub]()|
-| **DAY 068**| Energy Theft Detection  | [GitHub]()|
-| **DAY 069**| Medical Diagnosis  | [GitHub]()|
-| **DAY 070**| Indoor Navigation System  | [GitHub]()|
-| **DAY 071**| Waste Management and Recycling  | [GitHub]()|
-| **DAY 072**| Wildlife Conservation and Habitat Monitoring  | [GitHub]()|
-| **DAY 073**| Object Detection and Tracking in Surveillance  | [GitHub]()|
-| **DAY 074**| Personalized Fashion Styling Recommendation  | [GitHub]()|
-| **DAY 075**| Artwork Recommendation  | [GitHub]()|
+| **DAY 051**| Energy Consumption Forecasting  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/ashfakyeafi/pbd-load-history)
+| **DAY 052**| Personal Finance Assistant  | [GitHub]()|[Dataset](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main/Notebooks)
+| **DAY 053**| Automated Stock Trading System  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/agarwalvishal00/nse-top-stocks)
+| **DAY 054**| Smart Home Energy Management System  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/jeanmidev/smart-meters-in-london)
+| **DAY 055**| Virtual Tour Guide  | [GitHub]()|[Dataset](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main/Notebooks)
+| **DAY 056**| Wildlife Species Identification  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/quadeer15sh/amur-tiger-reidentification)
+| **DAY 057**| Automated Quality Control  | [GitHub]()|[Dataset](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main/Notebooks)
+| **DAY 058**| Virtual Try-On | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/salil007/caavo)
+| **DAY 059**| Speech Therapy Assistant  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/arinjaypathak/generative-ai-tweets)
+| **DAY 060**| Art Therapy Assistant  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/thedownhill/art-images-drawings-painting-sculpture-engraving)
+| **DAY 061**| Cyberbullying Detection  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification)
+| **DAY 062**| Patient Monitoring  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/crawford/gene-expression)
+| **DAY 063**| Traffic Congestion Prediction  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/fedesoriano/traffic-prediction-dataset)
+| **DAY 064**| Automated Object Counting  | [GitHub]()|[Dataset](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main/Notebooks)
+| **DAY 065**| Chatbot for Mental Health Support  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey)
+| **DAY 066**| Computer Vision-based Accident Detection  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/ckay16/accident-detection-from-cctv-footage)
+| **DAY 067**| Language Tutoring System  | [GitHub]()|[Dataset](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main/Notebooks)
+| **DAY 068**| Energy Theft Detection  | [GitHub]()|[Dataset](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main/Notebooks)
+| **DAY 069**| Medical Diagnosis  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+| **DAY 070**| Indoor Navigation System  | [GitHub]()|[Dataset](https://www.kaggle.com/competitions/indoor-location-navigation/data)
+| **DAY 071**| Waste Management and Recycling  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/kingabzpro/singapore-waste-management)
+| **DAY 072**| Wildlife Conservation and Habitat Monitoring  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/nationalparkservice/park-biodiversity)
+| **DAY 073**| Object Detection and Tracking in Surveillance  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/cdc/behavioral-risk-factor-surveillance-system)
+| **DAY 074**| Personalized Fashion Styling Recommendation  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
+| **DAY 075**| Artwork Recommendation  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time)
 | | | |
-| **DAY 076**| Wine Selection and Pairing Assistant  | [GitHub]()|
-| **DAY 077**| Luxury Product Authentication  | [GitHub]()|
-| **DAY 078**| Personal Investment Advisor  | [GitHub]()|
-| **DAY 079**| Fine Dining Experience Customization  | [GitHub]()|
-| **DAY 080**| Security and Access Control Systems | [GitHub]()|
-| **DAY 081**| Automated Event Planning and Management  | [GitHub]()|
-| **DAY 082**| Real Estate Property Search and Investment Advisor  | [GitHub]()|
-| **DAY 083**| Personal Concierge  | [GitHub]()|
-| **DAY 084**| Art Collection Curation and Management  | [GitHub]()|
-| **DAY 085**| Personalized Health and Wellness Programs  | [GitHub]()|
-| **DAY 086**| Auction Bidding System | [GitHub]()|
-| **DAY 087**| Virtual Reality-based Virtual Showrooms  | [GitHub]()|
-| **DAY 088**| Philanthropic Portfolio Management  | [GitHub]()|
-| **DAY 089**| Luxury Travel Booking and Experience Recommendation System | [GitHub]()|
-| **DAY 090**| Car Collection Management | [GitHub]()|
-| **DAY 091**| Private Museum Curation  | [GitHub]()|
-| **DAY 092**| Travel Membership Program  | [GitHub]()|
-| **DAY 093**| Architectural Design and Visualization | [GitHub]()|
-| **DAY 094**| Personalized Interior Design and Home Décor  | [GitHub]()|
-| **DAY 095**| Personalized Wealth Management  | [GitHub]()|
-| **DAY 096**| Luxury Vehicle Selection and Customization  | [GitHub]()|
-| **DAY 097**| Personalized Fashion Showroom and Styling Consultation  | [GitHub]()|
-| **DAY 098**| Watch Collection Management and Recommendation  | [GitHub]()|
-| **DAY 099**| Property Rental and Vacation Experience Platform  | [GitHub]()|
-| **DAY 0100**| Space Planning and Layout Optimization  | [GitHub]()|
+| **DAY 076**| Wine Selection and Pairing Assistant  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
+| **DAY 077**| Luxury Product Authentication  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/rkiattisak/luxury-watches-price-dataset)
+| **DAY 078**| Personal Investment Advisor  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/arindam235/startup-investments-crunchbase)
+| **DAY 079**| Fine Dining Experience Customization  | [GitHub]()|[Dataset](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main/Notebooks)
+| **DAY 080**| Security and Access Control Systems | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/mohamedamineferrag/edgeiiotset-cyber-security-dataset-of-iot-iiot)
+| **DAY 081**| Automated Event Planning and Management  | [GitHub]()|[Dataset](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main/Notebooks)
+| **DAY 082**| Real Estate Property Search and Investment Advisor  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/nicolejyt/facialexpressionrecognition)
+| **DAY 083**| Personal Concierge  | [GitHub]()|[Dataset](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main/Notebooks)
+| **DAY 084**| Art Collection Curation and Management  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/momanyc/museum-collection)
+| **DAY 085**| Personalized Health and Wellness Programs  | [GitHub]()|[Dataset](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main/Notebooks)
+| **DAY 086**| Auction Bidding System | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/tunguz/used-car-auction-prices)
+| **DAY 087**| Virtual Reality-based Virtual Showrooms  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/aakashjoshi123/virtual-reality-experiences)
+| **DAY 088**| Philanthropic Portfolio Management  | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/nancyalaswad90/finding-donors-for-charityml)
+| **DAY 089**| Luxury Travel Booking and Experience Recommendation System | [GitHub]()|[Dataset](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main/Notebooks)
+| **DAY 090**| Car Collection Management | [GitHub]()|[Dataset](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data)
+| **DAY 091**| Private Museum Curation  | [GitHub]()|[Dataset](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main/Notebooks)
+| **DAY 092**| Travel Membership Program  | [GitHub]()|[Dataset](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main/Notebooks)
+| **DAY 093**| Architectural Design and Visualization | [GitHub]()|[Dataset](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main/Notebooks)
+| **DAY 094**| Personalized Interior Design and Home Décor  | [GitHub]()|[Dataset](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main/Notebooks)
+| **DAY 095**| Personalized Wealth Management  | [GitHub]()|[Dataset](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main/Notebooks)
+| **DAY 096**| Luxury Vehicle Selection and Customization  | [GitHub]()|[Dataset](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main/Notebooks)
+| **DAY 097**| Personalized Fashion Showroom and Styling Consultation  | [GitHub]()|[Dataset](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main/Notebooks)
+| **DAY 098**| Watch Collection Management and Recommendation  | [GitHub]()|[Dataset](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main/Notebooks)
+| **DAY 099**| Property Rental and Vacation Experience Platform  | [GitHub]()|[Dataset](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main/Notebooks)
+| **DAY 0100**| Space Planning and Layout Optimization  | [GitHub]()|[Dataset](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main/Notebooks)
