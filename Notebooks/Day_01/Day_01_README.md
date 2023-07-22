@@ -2,8 +2,19 @@
 
 Cat vs. Dog Image Classifier is an AI project that uses deep learning and convolutional neural networks to distinguish between images of cats and dogs with high accuracy, enabling automatic identification and classification of these popular pets.
 
-Initially appeared 
+Article Initially appeared 
 [Here](https://medium.com/@natashanewbold).
+
+# Notebooks 
+- [Robotic-Vision-Object-Classification](https://github.com/beccadsouza/Robotic-Vision-Object-Classification)
+- [Cat-Dog-CNN-Image-Classifier-heroku](https://github.com/Abduttayyeb/Cat-Dog-CNN-Image-Classifier-heroku/tree/master)
+- [Cat-Dog-Classification-with-VGG-16](https://github.com/doguilmak/Cat-Dog-Classification-with-VGG-16)
+- [https://github.com/farkoo/Cat-Dog-Classifier](Cat-Dog-Classifier)
+- [cat-dog-cnn-classifier](https://github.com/igerardoh/cat-dog-cnn-classifier/tree/master)
+- [ImageClassification](https://github.com/DarshanMaradiya/ImageClassification)
+- [cat-dog-classification](https://github.com/cv-jaeha/cat-dog-classification)
+
+✋ Please feel free to make suggestions. 
 
 ## Getting Started
 
@@ -107,7 +118,7 @@ We use [Semantic Versioning](http://semver.org/) for versioning. For the version
 available, see the [tags on this
 repository](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tags).
 
-## Authors
+## Repo Authors
 
   - **Natasha** - *Edited README Template* -
     [100-Days-of-Artificial-Intelligence](https://github.com/natnew)
