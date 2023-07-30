@@ -5,6 +5,17 @@ Handwritten Digit Recognition is an AI project that employs machine learning alg
 Initially appeared 
 [Here](https://medium.com/@natashanewbold).
 
+# Notebooks 
+- [Handwritten-Digit-Recognition-using-Deep-Learning](https://github.com/anujdutt9/Handwritten-Digit-Recognition-using-Deep-Learning)
+- [digit-recognition](https://github.com/bikz05/digit-recognition)
+- [handwritten-digits-recognition](https://github.com/NeuralNine/handwritten-digits-recognition)
+- [handwritten_digit_recognition](https://github.com/Curt-Park/handwritten_digit_recognition)
+- [handwritten-digit-recognition](https://github.com/amitrajitbose/handwritten-digit-recognition)
+- [ Python-Custom-Digit-Recognition](https://github.com/pavitrakumar78/Python-Custom-Digit-Recognition)
+
+
+✋ Please feel free to make suggestion
+
 ## Getting Started
 
 1. Clone the project repository from GitHub: [100-Days-of-Artificial-Intelligence](https://github.com/natnew/100-Days-of-Artificial-Intelligence)
