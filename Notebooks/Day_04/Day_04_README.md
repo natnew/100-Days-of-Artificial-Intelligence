@@ -5,6 +5,16 @@ Facial Expression Recognition is an AI project that utilizes deep learning techn
 Initially appeared 
 [Here](https://medium.com/@natashanewbold).
 
+# Notebooks 
+- [Deepface ](https://github.com/serengil/deepface)
+- [Facial-Expression-Recognition.Pytorch ](https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch)
+- [tensorflow-101](https://github.com/serengil/tensorflow-101)
+- [EmoPy](https://github.com/thoughtworksarts/EmoPy)
+- [Facemoji](https://github.com/huihut/Facemoji)
+- [facial-expression-recognition-using-cnn ](https://github.com/amineHorseman/facial-expression-recognition-using-cnn)
+
+✋ Please feel free to make suggestion.
+
 ## Getting Started
 
 1. Clone the project repository from GitHub: [100-Days-of-Artificial-Intelligence](https://github.com/natnew/100-Days-of-Artificial-Intelligence)
