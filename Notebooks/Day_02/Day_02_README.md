@@ -2,8 +2,17 @@
 
 Flower Species Recognition is an AI project that utilizes deep learning techniques, such as convolutional neural networks (CNNs), to accurately classify and identify different species of flowers based on input images.
 
-Initially appeared 
+Article Initially appeared 
 [Here](https://medium.com/@natashanewbold).
+
+# Notebooks 
+- [Udacity-image-classification](https://github.com/Kusainov/udacity-image-classification)
+- [Garden-Iris ](https://github.com/murufeng/Garden-Iris/tree/master)
+- [Flower_classification ](https://github.com/oleksandr-g-rock/flower_classification)
+- [FlowersVisionDemo](https://github.com/cocoa-ai/FlowersVisionDemo)
+
+
+✋ Please feel free to make suggestions. 
 
 ## Getting Started
 
