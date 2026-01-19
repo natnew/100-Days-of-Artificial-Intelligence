@@ -1,6 +1,5 @@
 # 100 Days of Artificial Intelligence
 
-![AI Safety Banner](https://github.com/natnew/100-Days-of-Artificial-Intelligence/blob/main/Images/banner.jpg)
 
 ## 👋 Welcome
 
