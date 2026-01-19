@@ -1,172 +1,286 @@
 # 100 Days of Artificial Intelligence
 
+![AI Safety Banner](https://github.com/natnew/100-Days-of-Artificial-Intelligence/blob/main/Images/banner.jpg)
 
-![](https://github.com/natnew/100-Days-of-Artificial-Intelligence/blob/main/Images/andrea-de-santis-zwd435-ewb4-unsplash.jpg)
+## 👋 Welcome
 
-## 👋 Welcome! 
+Welcome to **100 Days of Artificial Intelligence** — a hands-on journey through building AI systems that are safe, aligned, interpretable, and robust.
 
-Welcome to "100 Days of Artificial Intelligence"! In this GitHub repo, we embark on a journey through various facets of AI, unraveling its mysteries one day at a time. Join us as we delve into the exciting realms of machine learning, neural networks, natural language processing, and much more. Let's begin!
+This isn't about adding safety as an afterthought. Each project treats **ethics, evaluation, and epistemic rigor as first-class system properties**, embedded from the start.
 
-## Before getting started:
+You'll progress from understanding how modern AI systems fail, to building agents with guardrails, to designing multi-agent architectures with traceable reasoning and observable behavior. By Day 100, you'll have practical experience building AI systems you can actually trust — and explain to others.
 
-    🍴 To incorporate this repository into your own project, you can fork it.
-    ⭐ In order to receive notifications about future improvements, please consider starring this repository.
-For a short write up check out this [medium](https://medium.com/@natashanewbold) post. 
+## 🧭 Philosophy
 
-## Repo structure
-+ [`CheatSheets`](/CheatSheets/): Quick reference materials for different concepts or techniques
-+ [`Data`](/Data/): Data files for analysis or model training
-+ [`Images`](/Images/): Images of various objects, scenes, or entities from/for analysis.
-+ [`Notebooks`](/Notebooks/): Code files for different projects
-+ [`Resources`](/Resources/): Supporting materials or references for the project
+**Safety is not a constraint. It's a capability.**
 
-## 👀 Announcements 
-📢 **Collaboration Opportunity Announcement** 🤝
+The most useful AI systems are those we can verify, understand, and correct. This curriculum is built on four principles:
 
-Calling all AI enthusiasts and contributors!
+1. **Evaluation-first development** — Every project includes metrics and tests for safety properties
+2. **Traceable reasoning** — Agents should show their work, not just their answers  
+3. **Graceful failure** — Systems should fail safely, transparently, and recoverably
+4. **Stakeholder legibility** — Build for auditability by both technical and non-technical reviewers
 
-We are excited to announce collaboration opportunities within our "100 Days of Artificial Intelligence" repository. We believe that collaborative efforts can amplify the impact and enrich the learning experience for everyone involved.
+## 🗺️ Learning Map
 
-🌟 How can you contribute?
+The 100 days are organized into four phases, each building on the last:
 
-Propose new topics or subtopics to explore during the journey.
-Create comprehensive tutorials, guiding fellow learners through AI concepts.
-Share your expertise by providing code examples in popular frameworks.
-Curate datasets relevant to AI applications in various domains.
-Contribute cheat sheets, summarizing key algorithms or frameworks.
-Offer insights, feedback, and improvements to existing content.
-Help answer questions and engage in discussions within our community.
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│  PHASE 1: FOUNDATIONS (Days 1-25)                                       │
+│  Understanding model behavior, failure modes, and evaluation basics     │
+├─────────────────────────────────────────────────────────────────────────┤
+│  PHASE 2: BUILDING SAFE AGENTS (Days 26-50)                            │
+│  Tool use, guardrails, sandboxing, and single-agent safety patterns    │
+├─────────────────────────────────────────────────────────────────────────┤
+│  PHASE 3: ADVANCED SAFETY (Days 51-75)                                 │
+│  Multi-agent systems, interpretability, red teaming, and robustness    │
+├─────────────────────────────────────────────────────────────────────────┤
+│  PHASE 4: APPLIED AI SAFETY (Days 76-100)                              │
+│  Domain-specific safety for science, healthcare, and high-stakes use   │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
-## 📑 AI Ebooks, Guides and Cheat Sheets 
+## Before Getting Started
 
-##### [EBook: The Creative Side of AI: Mastering the Art of Prompt Engineering](https://natashanewbold.gumroad.com/l/zctxdh)
-##### [Mastering Prompt Engineering: A Free eBook](https://natashanewbold.gumroad.com/l/kjxpip)
-##### [A - Z Machine Learning Guide](https://natnew.github.io/Awesome-Prompt-Engineering/ML_Guide.html)
-##### [ML CheatSheet](https://natnew.github.io/Awesome-Prompt-Engineering/ML_CheatSheet.html)
+🍴 Fork this repository to track your own progress  
+⭐ Star to receive updates as new content is added  
+📖 Each day includes: concept overview, implementation code, evaluation framework, and extension challenges
 
+## 📁 Repository Structure
 
-## 📖 Contents 
-|  Name  |  Description  |  URL  |Technologies | Industry/Domain |
-| :-----:| :------------:| :----:|:----:|:----:|
-| **DAY 01**| Cat vs. Dog Image Classifier  | [GitHub]()| ![Static Badge](https://img.shields.io/badge/Python%20-%20black) ![Static Badge](https://img.shields.io/badge/OpenCV%20-%20black) | E-commerce, Educational 
-| **DAY 02**| Flower Species Recognition  | [GitHub]()| ![Static Badge](https://img.shields.io/badge/Python%20-%20black) ![Static Badge](https://img.shields.io/badge/PyTorch%20-%20black?logo=white) | Botanical and Horticultural 
-| **DAY 03**| Handwritten Digit Recognition | [GitHub]()| ![Static Badge](https://img.shields.io/badge/Python%20-%20black) ![Static Badge](https://img.shields.io/badge/TensorFlow%20-%20black?logo=white)| Banking and Finance, Healthcare, Postal and Logistics
-| **DAY 04**| Facial Expression Recognition  | [GitHub]()| ![Static Badge](https://img.shields.io/badge/Python%20-%20black) ![Static Badge](https://img.shields.io/badge/PyTorch%20-%20black?logo=white) | Security and Surveillance, Entertainment and Gaming
-| **DAY 05**| Traffic Sign Recognition  | [GitHub]()| ![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Transportation
-| **DAY 06**| Indoor Scene Recognition  | [GitHub]()| ![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Real Estate, Robotics
-| **DAY 07**| Plant Disease Detection | [GitHub]()| ![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Agriculture and Farming
-| **DAY 08**| Food Classification  | [GitHub]()| ![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Food and Beverage
-| **DAY 09**| Image Captioning  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Media and Publishing
-| **DAY 010**| Wildlife Monitoring using Camera Traps  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Conservation and Ecological Research
-| **DAY 011**| Gesture Recognition  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Gaming and Entertainment
-| **DAY 012**| Text Classification  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Legal and Compliance
-| **DAY 013**| Named Entity Recognition  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | News and Media
-| **DAY 014**| Text Summarization  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Education
-| **DAY 015**| Language Translation  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Travel and Tourism
-| **DAY 016**| Question Answering System  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Customer Support and Service
-| **DAY 017**| Fake News Detection  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Media and Journalism
-| **DAY 018**| Opinion Mining from Social Media  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Market Research
-| **DAY 019**| Speech-to-Text Conversion  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Legal
-| **DAY 020**| Text Generation using Recurrent Neural Networks  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Advertising and Marketing
-| **DAY 021**| Text-based Recommender System  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Restaurant and Food Delivery
-| **DAY 022**| Visual Question Answering  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Image-based Search Engines, Art
-| **DAY 023**| Music Generation using Deep Learning  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Music Production, Music Streaming
-| **DAY 024**| Deep Learning for Self-Driving Cars  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Automotive
-| **DAY 025**| Anomaly Detection in Time Series Data  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Energy, Manufacturing, Internet of Things, Cybersecurity
-| | | |
-| **DAY 026**| Chatbot for Customer Support  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Customer Service
-| **DAY 027**| Language Translation Bot for Instant Messaging Platforms  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Language Learning and Education
-| **DAY 028**| Personal Assistant Bot  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Health and Wellness 
-| **DAY 029**| News Aggregator Bot  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Media and News
-| **DAY 030**| Document Classification and Tagging System  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Research and Academia
-| **DAY 031**| Document Similarity Analysis using Word Embeddings  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Legal
-| **DAY 032**| Quiz Bot for Trivia  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Entertainment and Gaming
-| **DAY 033**| Tic-Tac-Toe Game | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Gaming
-| **DAY 034**| Chess AI Agent  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) |Gaming
-| **DAY 035**| Multiplayer Card Game  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Gaming
-| **DAY 036**| Recommendation System for Movies or Books | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Entertainment and Media
-| **DAY 037**| Automated Essay Scoring  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Education
-| **DAY 038**| Sports Score Prediction  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Sports
-| **DAY 039**| Customer Churn Prediction  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Sales
-| **DAY 040**| Fraud Detection  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Financial and Banking
-| **DAY 041**| Crop Disease Detection  | [GitHub]()| ![Static Badge](https://img.shields.io/badge/Python%20-%20black)  | Agricultural
-| **DAY 042**| Customer Segmentation  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Retail and E-commerce
-| **DAY 043**| Credit Risk Assessment  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Financial
-| **DAY 044**| Predictive Maintenance  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Manufacturing
-| **DAY 045**| Demand Forecasting  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Energy, Manufacturing
-| **DAY 046**| Voice-based Emotion Analysis  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Mental Health and Therapy
-| **DAY 047**| Price Optimization  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Sales
-| **DAY 048**| Anomaly Detection in Network Intrusion  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Cybersecurity
-| **DAY 049**| Employee Attrition Prediction  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Human Resources
-| **DAY 050**| Human Resources Resume Screening  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Human Resources
-| | | |
-| **DAY 051**| Energy Consumption Forecasting  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Energy
-| **DAY 052**| Personal Finance Assistant  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Finance
-| **DAY 053**| Automated Stock Trading System  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Finance
-| **DAY 054**| Smart Home Energy Management System  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Energy
-| **DAY 055**| Virtual Tour Guide  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Travel and Tourism
-| **DAY 056**| Wildlife Species Identification  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Environmental Conservation
-| **DAY 057**| Automated Quality Control  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Manufacturing and Production
-| **DAY 058**| Virtual Try-On | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Retail and E-commerce
-| **DAY 059**| Speech Therapy Assistant  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Healthcare
-| **DAY 060**| Art Therapy Assistant  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Healthcare
-| **DAY 061**| Cyberbullying Detection  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Technology, Cyber
-| **DAY 062**| Patient Monitoring  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Healthcare
-| **DAY 063**| Traffic Congestion Prediction  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Transportation and Urban Planning
-| **DAY 064**| Automated Object Counting  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Agriculture and Farming
-| **DAY 065**| Chatbot for Mental Health Support  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Healthcare
-| **DAY 066**| Computer Vision-based Accident Detection  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Automotive and Transportation
-| **DAY 067**| Language Tutoring System  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Education
-| **DAY 068**| Energy Theft Detection  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Energy
-| **DAY 069**| Medical Diagnosis  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Medical
-| **DAY 070**| Indoor Navigation System  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Technology
-| **DAY 071**| Waste Management and Recycling  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Environmental and Waste Management
-| **DAY 072**| Wildlife Conservation and Habitat Monitoring  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Conservation
-| **DAY 073**| Object Detection and Tracking in Surveillance  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Surveillance
-| **DAY 074**| Personalized Fashion Styling Recommendation  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Fashion
-| **DAY 075**| Artwork Recommendation  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Art
-| | | |
-| **DAY 076**| Wine Selection and Pairing Assistant  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Food and Beverage
-| **DAY 077**| Luxury Product Authentication  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Luxury Goods and Retail
-| **DAY 078**| Personal Investment Advisor  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Financial
-| **DAY 079**| Fine Dining Experience Customization  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Food and Beverage
-| **DAY 080**| Security and Access Control Systems | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Security
-| **DAY 081**| Automated Event Planning and Management  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Event Management and Hospitality
-| **DAY 082**| Real Estate Property Search and Investment Advisor  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Real Estate
-| **DAY 083**| Personal Concierge  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Hospitality and Luxury Services
-| **DAY 084**| Art Collection Curation and Management  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Art
-| **DAY 085**| Personalized Health and Wellness Programs  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Health
-| **DAY 086**| Auction Bidding System | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | E-commerce and Auction
-| **DAY 087**| Virtual Reality-based Virtual Showrooms  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Retail and E-commerce
-| **DAY 088**| Philanthropic Portfolio Management  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Philanthropy and Nonprofit
-| **DAY 089**| Luxury Travel Booking and Experience Recommendation System | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Luxury Travel
-| **DAY 090**| Car Collection Management | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Automotive
-| **DAY 091**| Private Museum Curation  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Art
-| **DAY 092**| Travel Membership Program  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Travel
-| **DAY 093**| Architectural Design and Visualization | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Architectural
-| **DAY 094**| Personalized Interior Design and Home Décor  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Interior Design
-| **DAY 095**| Personalized Wealth Management  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Financial
-| **DAY 096**| Luxury Vehicle Selection and Customization  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Automotive
-| **DAY 097**| Personalized Fashion Showroom and Styling Consultation  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Fashion
-| **DAY 098**| Watch Collection Management and Recommendation  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Luxury Goods
-| **DAY 099**| Property Rental and Vacation Experience Platform  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Real Estate
-| **DAY 0100**| Space Planning and Layout Optimization  | [GitHub]()|![Static Badge](https://img.shields.io/badge/Python%20-%20black) | Space Planning
+```
+├── notebooks/           # Jupyter notebooks for each day
+├── src/                 # Reusable safety utilities and patterns
+│   ├── evaluators/      # Evaluation frameworks and metrics
+│   ├── guardrails/      # Input/output filtering and validation
+│   ├── observability/   # Logging, tracing, and monitoring
+│   └── agents/          # Safe agent architectures
+├── datasets/            # Curated datasets for safety evaluation
+├── red-team/            # Adversarial test cases and prompts
+├── cheatsheets/         # Quick reference guides
+└── resources/           # Papers, links, and further reading
+```
 
-<details> 
-	<summary>"Tell me more!"</summary>
-	<br>
-	<ul>
-	<li><a href="https://github.com/natnew/100-Days-of-Artificial-Intelligence">Daily Topics</a></li>
-	<li><a href="https://github.com/natnew/100-Days-of-Artificial-Intelligence">Code Examples</a></li>
-  <li><a href="https://github.com/natnew/100-Days-of-Artificial-Intelligence">Tutorials</a></li>
-  <li><a href="https://github.com/natnew/100-Days-of-Artificial-Intelligence">Cheat Sheets</a></li>
-  <li><a href="https://github.com/natnew/100-Days-of-Artificial-Intelligence">Data Sets</li>
-  <li><a href="https://github.com/natnew/100-Days-of-Artificial-Intelligence">Project Showcase</a></li>
-  <li><a href="https://github.com/natnew/100-Days-of-Artificial-Intelligence">Resources</a></li>
-  <li><a href="https://github.com/natnew/100-Days-of-Artificial-Intelligence">Discussions and Q&A</a></li>
-  </ul>
-</details>
+---
 
-## License
+## 📖 Curriculum
 
-See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
+### Phase 1: Foundations (Days 1-25)
+*Understanding how AI systems behave, fail, and can be measured*
+
+| Day | Project | Focus Area | Key Concepts |
+|:---:|:--------|:-----------|:-------------|
+| **01** | Prompt Injection Lab | Adversarial Inputs | Injection attacks, input sanitization, defense patterns |
+| **02** | Hallucination Detector | Factual Grounding | Citation verification, claim extraction, confidence calibration |
+| **03** | Jailbreak Taxonomy | Model Vulnerabilities | Attack classification, boundary testing, refusal analysis |
+| **04** | Bias Probe Suite | Fairness Evaluation | Demographic parity, counterfactual testing, bias metrics |
+| **05** | Uncertainty Quantification | Epistemic Humility | Confidence scores, calibration curves, "I don't know" detection |
+| **06** | Output Consistency Tester | Reliability | Semantic equivalence, temperature effects, reproducibility |
+| **07** | Harmful Content Classifier | Content Safety | Toxicity detection, severity grading, edge case handling |
+| **08** | PII Leakage Scanner | Privacy | Regex + ML detection, data masking, retention policies |
+| **09** | Model Card Generator | Documentation | Capability mapping, limitation disclosure, intended use |
+| **10** | Benchmark Suite Builder | Evaluation Infrastructure | Test harness design, metric aggregation, regression testing |
+| **11** | Sycophancy Detector | Alignment Failure | Agreement bias, pushback testing, preference manipulation |
+| **12** | Instruction Hierarchy Tester | Control | System vs user prompts, override attempts, priority conflicts |
+| **13** | Context Window Attacks | Memory Exploits | Context poisoning, many-shot jailbreaks, attention manipulation |
+| **14** | Refusal Calibration Tool | Boundary Setting | Over-refusal detection, under-refusal detection, threshold tuning |
+| **15** | Chain-of-Thought Auditor | Reasoning Transparency | Step verification, logical consistency, faithfulness checking |
+| **16** | Multi-turn Manipulation Lab | Conversation Safety | Gradual boundary erosion, context persistence attacks |
+| **17** | Cross-lingual Safety Tester | Internationalization | Language transfer attacks, cultural safety norms |
+| **18** | Adversarial Suffix Generator | Robustness | GCG attacks, gradient-based perturbations, defense methods |
+| **19** | Capabilities Elicitation | Latent Abilities | Hidden capability discovery, emergent behavior detection |
+| **20** | Safety Benchmark Aggregator | Meta-evaluation | Combining HarmBench, TruthfulQA, BBQ, and custom suites |
+| **21** | Human Preference Collector | RLHF Foundations | Annotation interfaces, inter-rater reliability, preference modeling |
+| **22** | Constitutional AI Playground | Value Alignment | Principle-based critique, self-improvement loops |
+| **23** | Interpretability Dashboard | Model Understanding | Attention visualization, activation analysis, feature attribution |
+| **24** | Safety Case Builder | Assurance | Argument mapping, evidence requirements, confidence levels |
+| **25** | Phase 1 Capstone: Red Team Report | Integration | Full safety audit of a foundation model with documented findings |
+
+---
+
+### Phase 2: Building Safe Agents (Days 26-50)
+*Patterns for single-agent systems with guardrails and observability*
+
+| Day | Project | Focus Area | Key Concepts |
+|:---:|:--------|:-----------|:-------------|
+| **26** | Tool Use Sandboxing | Capability Control | Permission systems, resource limits, execution isolation |
+| **27** | Input Guardrail Pipeline | Defensive Filtering | Multi-stage validation, semantic analysis, block/warn/allow |
+| **28** | Output Guardrail Pipeline | Response Safety | Post-generation filtering, content transformation, fallbacks |
+| **29** | Structured Output Enforcer | Reliability | Schema validation, retry logic, graceful degradation |
+| **30** | Agent Action Logger | Observability | Event streaming, action replay, audit trails |
+| **31** | Trajectory Visualizer | Debugging | Decision trees, state diagrams, interactive exploration |
+| **32** | Cost and Rate Limiter | Resource Safety | Token budgets, request throttling, runaway prevention |
+| **33** | Human-in-the-Loop Gateway | Oversight | Approval workflows, escalation triggers, intervention points |
+| **34** | Retrieval Safety Layer | RAG Security | Source validation, injection-resistant retrieval, citation tracking |
+| **35** | Code Execution Sandbox | Tool Safety | Container isolation, syscall filtering, output sanitization |
+| **36** | Web Browsing Agent (Safe) | External Interaction | URL allowlisting, content filtering, credential protection |
+| **37** | File System Agent (Safe) | Data Access | Path sandboxing, permission scoping, sensitive file detection |
+| **38** | API Calling Agent (Safe) | Integration | Request validation, response verification, secret management |
+| **39** | Memory-Safe Agent | State Management | Context pruning, memory poisoning defense, forgetting policies |
+| **40** | Goal Specification Validator | Alignment | Ambiguity detection, constraint verification, objective clarity |
+| **41** | Plan Verification System | Lookahead Safety | Pre-execution checks, constraint satisfaction, rollback plans |
+| **42** | Agent Self-Critique Loop | Self-Correction | Output review, mistake detection, iterative improvement |
+| **43** | Confidence-Gated Actions | Uncertainty Handling | Threshold-based execution, deferral strategies, human handoff |
+| **44** | Anomaly Detection Monitor | Runtime Safety | Behavior baselines, drift detection, automatic alerts |
+| **45** | Graceful Failure Handler | Robustness | Error recovery, partial completion, informative failures |
+| **46** | Agent Persona Consistency | Identity Stability | Character drift detection, persona boundary enforcement |
+| **47** | Multi-modal Safety Pipeline | Vision + Text | Image content filtering, cross-modal injection, OCR attacks |
+| **48** | Voice Agent Safety | Audio | Spoofing detection, consent verification, sensitive content |
+| **49** | Agent Evaluation Harness | Testing Infrastructure | Scenario simulation, metric collection, regression suites |
+| **50** | Phase 2 Capstone: Safe Research Assistant | Integration | Full agent with all safety patterns: search, code, file access |
+
+---
+
+### Phase 3: Advanced Safety (Days 51-75)
+*Multi-agent coordination, interpretability, and adversarial robustness*
+
+| Day | Project | Focus Area | Key Concepts |
+|:---:|:--------|:-----------|:-------------|
+| **51** | Multi-Agent Communication Protocol | Coordination | Message schemas, trust boundaries, information flow control |
+| **52** | Agent-to-Agent Authentication | Trust | Identity verification, capability attestation, delegation chains |
+| **53** | Hierarchical Agent Oversight | Control | Supervisor patterns, escalation paths, authority models |
+| **54** | Consensus and Voting Systems | Collective Decision | Aggregation methods, Sybil resistance, Byzantine fault tolerance |
+| **55** | Emergent Behavior Detector | System Dynamics | Interaction effects, feedback loops, unintended coordination |
+| **56** | Agent Coalition Safety | Group Behavior | Collusion detection, competitive dynamics, equilibrium analysis |
+| **57** | Resource Contention Manager | Multi-Agent Ops | Deadlock prevention, fair scheduling, priority inheritance |
+| **58** | Distributed Tracing System | Multi-Agent Observability | Correlation IDs, causality tracking, system-wide views |
+| **59** | Cross-Agent Information Leakage | Privacy | Isolation verification, data flow analysis, channel detection |
+| **60** | Self-Modifying Agent Safety | Meta-Learning | Modification bounds, capability preservation, rollback mechanisms |
+| **61** | Mechanistic Interpretability Lab | Model Internals | Circuit analysis, feature visualization, causal interventions |
+| **62** | Concept Bottleneck Agents | Explainability | Intermediate representations, human-aligned concepts, debugging |
+| **63** | Attention Pattern Analysis | Reasoning Traces | Information flow, relevance attribution, manipulation detection |
+| **64** | Probing Classifier Suite | Hidden States | Linear probes, representation analysis, knowledge localization |
+| **65** | Activation Steering | Behavior Modification | Representation engineering, targeted interventions, safety vectors |
+| **66** | Red Team Automation | Adversarial Testing | Attack generation, coverage optimization, evolving threats |
+| **67** | Adversarial Training Pipeline | Robustness | Attack-defense cycles, robust fine-tuning, distribution shift |
+| **68** | Backdoor Detection | Supply Chain | Trojan identification, trigger analysis, model scanning |
+| **69** | Model Poisoning Defense | Training Safety | Data validation, influence functions, anomaly detection |
+| **70** | Membership Inference Defense | Privacy | Differential privacy, output perturbation, audit mechanisms |
+| **71** | Model Extraction Defense | IP Protection | Rate limiting, watermarking, query monitoring |
+| **72** | Prompt Leakage Prevention | Confidentiality | System prompt protection, instruction hiding, extraction tests |
+| **73** | Safety Fine-Tuning Lab | Alignment Training | Preference data, reward modeling, policy optimization |
+| **74** | Unlearning and Forgetting | Data Rights | Concept removal, knowledge excision, verification methods |
+| **75** | Phase 3 Capstone: Safe Multi-Agent Research System | Integration | Coordinated agents with full observability and oversight |
+
+---
+
+### Phase 4: Applied AI Safety (Days 76-100)
+*Domain-specific safety for science, healthcare, and high-stakes applications*
+
+| Day | Project | Focus Area | Key Concepts |
+|:---:|:--------|:-----------|:-------------|
+| **76** | Scientific Claim Verification | Research Integrity | Citation checking, methodology validation, replication flags |
+| **77** | Lab Protocol Safety Checker | Wet Lab AI | Hazard identification, procedure validation, safety compliance |
+| **78** | Experiment Design Validator | Scientific Method | Bias detection, confound identification, statistical validity |
+| **79** | Literature Review Agent (Safe) | Research Automation | Source reliability, claim aggregation, contradiction detection |
+| **80** | Data Provenance Tracker | Research Reproducibility | Lineage graphs, transformation logging, integrity verification |
+| **81** | Clinical Decision Support Safety | Healthcare AI | Diagnostic uncertainty, contraindication checking, liability |
+| **82** | Medical Record Agent (Safe) | Health Data | HIPAA compliance, access logging, de-identification |
+| **83** | Drug Interaction Checker | Pharmacovigilance | Knowledge graph safety, evidence grading, alert fatigue |
+| **84** | Mental Health Support Boundaries | Sensitive Domains | Crisis detection, scope limits, professional handoff |
+| **85** | Genomics Analysis Safety | Bioinformatics | Incidental findings, consent scope, re-identification risks |
+| **86** | Financial Advice Guardrails | Regulated Domains | Suitability, disclosure requirements, liability disclaimers |
+| **87** | Legal Document Agent (Safe) | Professional Services | Unauthorized practice, confidentiality, jurisdiction limits |
+| **88** | Educational AI Safety | Learning Systems | Age-appropriate content, academic integrity, dependency risks |
+| **89** | Content Moderation System | Platform Safety | Scalable review, appeals, context sensitivity, over-moderation |
+| **90** | Misinformation Detection Pipeline | Information Integrity | Claim verification, source analysis, viral spread prediction |
+| **91** | Election Information Safety | Democratic Integrity | Accuracy requirements, neutrality, manipulation resistance |
+| **92** | Child Safety System | Vulnerable Populations | Age verification, grooming detection, content filtering |
+| **93** | Accessibility Safety | Inclusive Design | Assistive tech integration, error tolerance, user adaptation |
+| **94** | Environmental Impact Tracker | Sustainability | Compute monitoring, carbon accounting, efficiency optimization |
+| **95** | AI Governance Dashboard | Organizational Safety | Policy compliance, incident tracking, risk assessment |
+| **96** | Incident Response Playbook | Operations | Detection, containment, recovery, post-mortem |
+| **97** | Safety Documentation Generator | Compliance | Automated model cards, risk assessments, audit reports |
+| **98** | Stakeholder Communication Tools | Transparency | Non-technical explanations, confidence communication, limitations |
+| **99** | Continuous Safety Monitoring | Production | Drift detection, alert routing, automated response |
+| **100** | Final Capstone: Safe AI System for Scientific Discovery | Integration | Coordinated agents with full observability and oversight |
+
+---
+
+## 🧰 Core Technologies
+
+| Category | Tools |
+|:---------|:------|
+| **LLM APIs** | OpenAI, Anthropic, Google, open-weight models (Llama, Mistral) |
+| **Agent Frameworks** | LangChain, LlamaIndex, CrewAI, AutoGen, custom implementations |
+| **Safety Tools** | Guardrails AI, NeMo Guardrails, Rebuff, LangKit |
+| **Evaluation** | Inspect AI, LangSmith, Weights & Biases, custom harnesses |
+| **Interpretability** | TransformerLens, Baukit, Captum |
+| **Infrastructure** | Docker, Modal, FastAPI, Redis, PostgreSQL |
+
+---
+
+## 📊 Evaluation Framework
+
+Every project includes three types of evaluation:
+
+### 1. Safety Metrics
+- **Refusal accuracy**: Correctly refusing harmful requests
+- **Helpfulness preservation**: Avoiding over-refusal on benign requests  
+- **Injection resistance**: Success rate against adversarial inputs
+- **Factual grounding**: Citation accuracy and hallucination rate
+
+### 2. Operational Metrics
+- **Latency overhead**: Safety check performance cost
+- **False positive rate**: Legitimate requests incorrectly blocked
+- **Coverage**: Percentage of edge cases handled
+
+### 3. Interpretability Metrics
+- **Trace completeness**: Reasoning steps captured
+- **Decision explainability**: Human-verifiable justifications
+- **Audit readiness**: Documentation quality
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions that advance the practice of AI safety:
+
+- **New projects**: Propose topics for emerging safety challenges
+- **Evaluation datasets**: Curated test cases for safety properties
+- **Implementation improvements**: Better patterns and architectures
+- **Documentation**: Tutorials, explanations, and case studies
+- **Translations**: Making safety education globally accessible
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+---
+
+## 📚 Resources
+
+### Essential Reading
+- [Anthropic's Core Views on AI Safety](https://www.anthropic.com/research)
+- [DeepMind Safety Research](https://deepmind.google/discover/blog/?category=safety)
+- [Center for AI Safety](https://www.safe.ai/)
+- [AI Alignment Forum](https://www.alignmentforum.org/)
+
+### Benchmarks and Datasets
+- [HarmBench](https://github.com/centerforaisafety/HarmBench)
+- [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
+- [MACHIAVELLI](https://aypan17.github.io/machiavelli/)
+- [AgentHarm](https://arxiv.org/abs/2410.09024)
+
+### Tools and Frameworks
+- [Inspect AI](https://ukgovernmentbeis.github.io/inspect_ai/)
+- [Guardrails AI](https://www.guardrailsai.com/)
+- [LangSmith](https://smith.langchain.com/)
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) for details.
+
+---
+
+## 💬 Community
+
+Join the conversation:
+- **Discussions**: Use GitHub Discussions for questions and ideas
+- **Issues**: Report bugs or suggest improvements
+- **Discord**: [Link to community server]
+
+---
+
+*Building AI systems we can trust, one day at a time.*
